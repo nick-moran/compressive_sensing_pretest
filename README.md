@@ -13,7 +13,7 @@ The first part was to compress the MNIST numbers dataset, using a sensing matrix
 from 28x28 pixel images to 7x7 pixels.  
 Then, using a simple neural net, recreate the original picture, at 28x28 pixels  
 
-The images are related 
+The images are related to the net  
 before- image before compression and reconstruction  
 ![alt text](https://github.com/nick-moran/compressive_sensing_pretest/blob/master/before.png?raw=true)  
 inter- image after compression, but before reconstruction  
